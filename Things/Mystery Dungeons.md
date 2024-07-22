@@ -1,0 +1,4 @@
+Mystery dungeons are strange, shifting labyrinths that are filled with mindless and aggressive Pokemon that attack on sight. They are entered through large portals leading to a space that is impossibly larger on the inside than it is on the outside, with a varying number of floors. It is unknown what causes mystery dungeons to appear.
+Dungeons are extremely dangerous for those that are unprepared, and as such most Pokemon tend to avoid them entirely. 
+## Temporary Dungeons
+Rarely, portals will spontaneously appear in spaces where they never were. These lead to dungeons that vanish after a certain amount of time.

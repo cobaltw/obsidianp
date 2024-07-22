@@ -1,0 +1,1 @@
+Guilds are organizations of Pokemon 
