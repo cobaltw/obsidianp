@@ -1,1 +1,1 @@
-Guilds are organizations of Pokemon 
+Guilds are organizations of Pokemon that are tasked with locating, 

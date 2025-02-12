@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Things/Guilds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Guilds"
             }
           }
         ]
@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -149,9 +150,10 @@
   },
   "active": "337ddab57ee6e301",
   "lastOpenFiles": [
-    "Locations/Continent.md",
-    "README.md",
+    "Organizations/Ivy's Guild.md",
     "attachments/pmd.jpg",
+    "README.md",
+    "Locations/Continent.md",
     "attachments",
     "/attachments/pmd.jpg",
     "/Locations/Continent.md",
@@ -159,7 +161,6 @@
     "test.md",
     "Locations/Wish Town.md",
     "Locations",
-    "Organizations/Ivy's Guild.md",
     "Organizations",
     "Characters/Whirl's Guild/Whirl.md",
     "Characters/Whirl's Guild",
@@ -185,7 +186,6 @@
     "/Locations/Wish Town.md",
     "/Locations/Treasure Town.md",
     "/Locations/Forge Town.md",
-    "/Characters/Whirl's Guild/Whirl.md",
     "/Things"
   ]
 }
