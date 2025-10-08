@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Wish Town.md",
+                "file": "Organizations/Ivy's Guild.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wish Town"
+              "title": "Ivy's Guild"
             }
           }
         ]
@@ -140,6 +140,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,6 +151,7 @@
   },
   "active": "337ddab57ee6e301",
   "lastOpenFiles": [
+    "Locations/Wish Town.md",
     "Locations/Forge Town.md",
     "Locations/Continent.md",
     "Things/Guilds.md",
@@ -161,7 +163,6 @@
     "/Locations/Continent.md",
     "/attachments",
     "test.md",
-    "Locations/Wish Town.md",
     "Locations",
     "Organizations",
     "Characters/Whirl's Guild/Whirl.md",
