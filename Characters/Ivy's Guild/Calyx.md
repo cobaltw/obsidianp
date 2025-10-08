@@ -1,4 +1,4 @@
 Snivy, She/Her
 
-Relationships
-[Guildmaster Ivy] (Mother)
+### Relationships
+[[Guildmaster Ivy]] (Mother)

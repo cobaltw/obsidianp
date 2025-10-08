@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Organizations/Ivy's Guild.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,11 +151,15 @@
   },
   "active": "337ddab57ee6e301",
   "lastOpenFiles": [
+    "Locations/Treasure Town.md",
+    "Characters/Ivy's Guild/Calyx.md",
+    "Characters/Treasure Town",
+    "Characters/Ivy's Guild/Guildmaster Ivy.md",
+    "Organizations/Ivy's Guild.md",
     "Locations/Wish Town.md",
     "Locations/Forge Town.md",
     "Locations/Continent.md",
     "Things/Guilds.md",
-    "Organizations/Ivy's Guild.md",
     "attachments/pmd.jpg",
     "README.md",
     "attachments",
@@ -168,8 +172,6 @@
     "Characters/Whirl's Guild/Whirl.md",
     "Characters/Whirl's Guild",
     "Characters",
-    "Characters/Ivy's Guild/Guildmaster Ivy.md",
-    "Characters/Ivy's Guild/Calyx.md",
     "Characters/Ivy's Guild",
     "Things/Mystery Dungeons.md",
     "Things",
@@ -177,7 +179,6 @@
     "Characters/Brick's Guild/Brick.md",
     "Characters/Brick's Guild",
     "Organizations/Brick's Guild.md",
-    "Locations/Treasure Town.md",
     "Characters/Ivy's Guild/Fleece.md",
     "/Things/Mystery Dungeons.md",
     "/Things/Guilds.md",
@@ -186,7 +187,6 @@
     "/Organizations/Brick's Guild.md",
     "/Locations/Wish Town.md",
     "/Locations/Treasure Town.md",
-    "/Locations/Forge Town.md",
-    "/Things"
+    "/Locations/Forge Town.md"
   ]
 }
